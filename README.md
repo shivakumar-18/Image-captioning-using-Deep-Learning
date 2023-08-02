@@ -1,5 +1,5 @@
 # Image-captioning-using-Deep-Learning
-I used Flicker8k dataset for this project
+I used the Flicker8k dataset for this project.
 The objective of the project is to predict the captions for the input image. 
 The dataset consists of 8k images and 5 captions for each image. 
 The features are extracted from both the image and the text captions for input. 
